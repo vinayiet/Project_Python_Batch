@@ -5,8 +5,10 @@ print('I have new added new file')
 # git add README.md -> After making some change into that file just add that file to track
 
 # git commit -m "first commit" -> Just save the file using commit by some message
-# git branch -M main -> make main branch 
+# git branch -M main -> make main branch -> this is for the first 
 # git remote add origin https://github.com/vinayiet/Project_Python_Batch.git -> 
 # this is the location where you will push your local code or local repository on the github
 
 # git push -u origin main -> this command is used to push all the commits 
+
+# This is the new line I have added
